@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center">
     <img src="assets/arewadsimage.png" alt="ArewaDS Python for Beginners - Cohort 3.0">
 </p>
@@ -174,5 +175,8 @@ Each student must complete all the project in this course
 We’re excited to have you on board and can’t wait to see all the amazing things you’ll accomplish!
 =======
 # ArewaDataScience_assignment_week_1
+=======
+# ArewaDataScience_assignment_week_11
+>>>>>>> 7c603823204243a0a0b473d92ced38eb2a3b2cbc
 Week 1 Assignment for Arewa Data Science Fellowship_Python for data science project
 >>>>>>> cd9a24c40d8d2e86578ad397a7f0af0be066810d
